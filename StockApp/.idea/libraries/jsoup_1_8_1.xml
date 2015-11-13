@@ -1,9 +1,19 @@
 <component name="libraryTable">
   <library name="jsoup-1.8.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/Nerd Stuff/Java Libraries/jsoup-1.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/jsoup-1.8.1.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/commons-net-3.3-2014-12-28" />
+      <root url="jar://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/java-json.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3" />
+      <root url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/httpcomponents-client-4.3.3-2014-12-28/httpcomponents-client-4.3.3" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/java-json.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/httpcomponents-client-4.3.3-2014-12-28/httpcomponents-client-4.3.3" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Nerd-Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3" recursive="false" type="SOURCES" />
   </library>
 </component>
